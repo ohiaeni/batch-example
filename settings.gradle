@@ -1,0 +1,6 @@
+rootProject.name = 'batch-example'
+
+include 'system-common'
+include 'infrastructure'
+include 'application-core'
+include 'batch'
